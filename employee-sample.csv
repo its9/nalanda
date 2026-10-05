@@ -1,0 +1,4 @@
+employeeId,name,department,unit,email,phone,internalPhone,designation,status
+EMP2001,Anita Rao,QUALITY,BLR,anita.rao@example.com,9876543210,1001,Engineer,ACTIVE
+EMP2002,Robert Kumar,HR,BLR,robert.kumar@example.com,9876543211,1002,Manager,ACTIVE
+EMP2003,Meena Das,PRODUCTION,GZB,meena.das@example.com,9876543212,1003,Technician,ON_LEAVE

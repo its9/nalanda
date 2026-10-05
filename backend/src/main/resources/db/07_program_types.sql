@@ -1,0 +1,6 @@
+CREATE TABLE program_types (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    type_name VARCHAR(50) NOT NULL UNIQUE,
+    description TEXT,
+    status VARCHAR(20) NOT NULL DEFAULT 'ACTIVE'
+);
